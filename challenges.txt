@@ -1,0 +1,181 @@
+AI Coding Hackaton
+
+1750
+2025
+
+O ponto de virada
+
+Este gráfico mostra um dos momentos mais importantes da história humana.
+Por quase 800 anos, até por volta de 1750, o crescimento da produção mundial acompanhava o da população — mais pessoas significavam apenas mais trabalho manual.
+
+
+
+Durante mil anos, a produção e a população cresceram quase no mesmo ritmo.
+Mas a partir de 1750, algo mudou.
+A Revolução Industrial multiplicou o valor criado por pessoa.
+O mesmo está prestes a acontecer com o software — agora.
+
+
+Em que momento estamos?
+
+Encaremos os fatos
+A maioria dos desenvolvedores hoje não está criando linguagens, bibliotecas ou frameworks do zero.
+Eles constroem sobre o que já existe — frameworks, SDKs, APIs, templates.
+Essa abordagem é poderosa, mas também revela algo: boa parte do trabalho em desenvolvimento de software é baseada em padrões.
+E tudo que segue um padrão pode — e vai — ser automatizado por IA.
+
+O limite humano
+Desenvolvedores têm limites.
+Precisam dormir, se cansam, se frustram, e só podem trabalhar algumas horas por dia.
+Mesmo um dev que trabalhe 14 ou 17 horas jamais vai competir com uma IA capaz de gerar milhares de linhas de código em segundos.
+A IA não sente fadiga, nem burnout. Ela opera sem pausa, com consistência, e redefine o ritmo da produção de software.
+
+
+Desafios
+
+Durante as próximas 24 horas, vocês vão trabalhar em cinco desafios que representam problemas reais
+
+Desafios
+Desafio 1 — API de SAC com respostas por agentes de IA: Imaginem um suporte que responde sozinho, com empatia e precisão, consultando políticas e pedidos em segundos.
+Desafio 2 — Reinterpretação do LinkedIn para um segmento específico: Como seria o LinkedIn se fosse feito para artistas, técnicos ou vendedores?
+Desafio 3 — Ferramenta de PMO inteligente integrada ao Slack: O projeto se organiza sozinho — entende progresso e envia resumos automáticos.
+Desafio 4 — Experiência de compra por chat: Transformar o e-commerce em conversa — “Quero 50 kits para São Paulo” → sugestão, preço e botão comprar.
+Desafio 5 — Otimização de localização de SKU em armazém: A IA que reorganiza o estoque para reduzir tempo e custo logístico.”
+
+Desafio 1
+
+API de SAC com respostas por agentes de IA
+
+1. API de SAC com respostas por agentes de IA
+Imagine receber mil mensagens por dia — perguntas repetidas, confusas, às vezes emocionadas.
+Seu time de atendimento tenta ser rápido, mas a fila cresce e as respostas variam: um diz “estamos verificando”, outro “aguarde 48 h”.
+O resultado? Clientes frustrados e um time exausto.E se existisse uma API de atendimento capaz de responder automaticamente com consistência, empatia e base em fatos, consultando políticas, pedidos e manuais — tudo em segundos?
+Seu desafio é criar essa API: uma interface que transforma uma simples pergunta (“posso trocar meu produto?”) em uma resposta certeira, com fonte e contexto.
+
+
+
+
+1. API de SAC com respostas por agentes de IA
+Exemplos de aplicação:
+“Meu pedido não chegou” → resposta com status real e link de rastreio.
+“Qual a política de devolução?” → texto resumido da base da empresa.
+“Quero falar com humano” → encaminhamento automático para o canal certo.
+Impacto esperado:
+Menos ruído, mais confiança — e uma base sólida para atendimento em escala.
+
+
+Desafio 2
+
+Reinterpretação do LinkedIn para um segmento específico
+
+2. Reinterpretação do LinkedIn para um segmento específico
+O LinkedIn conecta milhões, mas quem é autônomo, vendedor de campo, técnico, artista ou pequeno empreendedor muitas vezes não encontra ali o que realmente importa.
+A plataforma trata todos como “profissionais corporativos” — o que funciona para executivos, mas não para quem vive de gigs, vendas, ou da prática.
+Como seria o LinkedIn se fosse desenhado para um público específico, com linguagem, oportunidades e conexões que fizessem sentido para aquele universo?
+Pense em algo como:
+Um “LinkedIn para artistas independentes”, que conecta músicos a casas de show. 
+Ou um “LinkedIn para profissionais de logística”, com rotas de trabalho, certificações e indicação de fretes.
+Ou ainda, uma rede para consultores de venda, que trocam leads, comissões e aprendizados.
+
+
+
+
+Desafio 3
+
+Ferramenta de PMO inteligente integrada ao Slack
+
+3. Ferramenta de PMO inteligente integrada ao Slack
+Todo projeto começa com entusiasmo e acaba com planilhas, reuniões e follow-ups infindáveis.
+“Quem ficou responsável por isso?”, “Quando entrega mesmo?”, “Atualiza o cronograma!”
+No fim, ninguém sabe o status real.
+E se o próprio projeto se organizasse sozinho?
+Imagine mandar uma mensagem no Slack:
+/novo-projeto Campanha Outubro → gera lista de tarefas e donos.
+O bot pergunta: “Concluiu o layout?” → responde “quase lá”, ele entende 80% e atualiza o status.
+Toda manhã, envia um resumo para o time.
+Gestão sem burocracia — tempo livre para fazer, não só reportar.
+
+
+Desafio 4
+
+Experiência de compra por chat (B2C ou B2B)
+
+4. Experiência de compra por chat (B2C ou B2B)
+Quando você fala com um vendedor bom, ele entende rápido o que você quer:
+“Preciso de 50 kits de higiene para entrega rápida em São Paulo.”
+Em poucos segundos, ele sugere as opções, mostra fotos e faz o pedido.
+Mas nas lojas online, você precisa clicar, filtrar, comparar, repetir.
+E se a experiência de compra fosse uma conversa natural, onde você simplesmente escreve o que precisa — e o sistema responde com sugestões, imagens, preços e o botão “comprar”?
+Um chat onde cada resposta pode virar um clique de ação.
+Exemplo de uso:
+“Quero presentes de Natal até R$100.” → mostra 3 kits, permite adicionar direto ao carrinho.
+“Tenho uma perfumaria, quero repor estoque.” → recomenda SKUs populares e mostra disponibilidade.
+
+Desafio 5
+
+Ferramenta de otimização de localização de SKU em armazém
+
+5. Ferramenta de otimização de localização de SKU em armazém
+Em um centro de distribuição, cada metro conta.
+Produtos mal posicionados significam quilômetros extras percorridos por dia e atrasos nas entregas.
+Mudar um SKU de lugar pode economizar horas.
+E se uma IA pudesse analisar os pedidos históricos e sugerir automaticamente a melhor posição para cada produto — colocando os itens mais frequentes próximos, e os raros mais distantes?
+O sistema detecta que o shampoo e o condicionador sempre saem juntos → recomenda colocá-los lado a lado.Sugere reorganizar 20% do estoque para reduzir 15% do tempo de separação.Mais eficiência logística, menos tempo de picking e entregas mais rápidas.
+
+
+
+Regras e mindset
+
+Como ganhar?
+
+
+Critérios de avaliação
+Criatividade & Inovação (30%)
+Execução Técnica & MVP (30%)
+Impacto Prático (25%)
+Clareza de Apresentação (15%)
+
+
+
+
+Mindset
+O hackathon é curto, mas intenso.
+O que vale aqui não é quem escreve mais linhas de código — e sim quem entrega mais valor em menos tempo, usando IA com propósito.
+Lembrem-se:
+	•	Mostrem o essencial, mesmo que o MVP seja simples.
+	•	O pitch é parte do produto — clareza conta tanto quanto execução.”
+
+
+
+
+Setup
+
+Repositório no Github
+
+
+Setup
+Criar conta em github.com
+Criar repositório ai-builder-hackathon-2025-{nome}
+Adicionar 
+@viebig 
+como colaboradores para leitura
+
+
+
+Setup
+Checklist final antes da entrega
+README claro, com link de demo e instruções 
+Repo público e acessível
+Commit final antes de 12h de domingo
+Sugestões
+GIF curto mostrando o produto
+Vídeo YouTube/Loom
+.env.example + instruções simples
+https://github.com/matiassingers/awesome-readme
+
+
+
+Agora é com vocês!
+
+Criem algo que vocês mesmos queiram usar.
+
