@@ -2,6 +2,8 @@
 
  Repositório com prompts e relatórios consolidados produzidos para o AI Coding Hackaton 2025. A pasta `repos/` (código clonado de terceiros) é intencionalmente ignorada e não é enviada ao repositório remoto.
 
+ Repositório público: https://github.com/viebig/ai-coding-hackaton-2025
+
  Conteúdo principal:
  - Prompts usados na avaliação: `prompts/`
  - Relatórios e anotações consolidadas: `report/`

@@ -1,5 +1,8 @@
 # ai_builder_hackathon_2025_PMOslack — Scorecard para Jurados (0–5)
 
+Repositório: https://github.com/viebig/ai-coding-hackaton-2025
+
+
 ## Resumo Executivo
 - Desafio: 3
 - TL;DR (1 linha): Integração Slack básica (ler/enviar mensagens, gerenciar canais) sem camada de IA/PMO inteligente.

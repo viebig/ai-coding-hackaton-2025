@@ -1,5 +1,8 @@
 # ai-chat-commerce — Scorecard para Jurados (0–5)
 
+Repositório: https://github.com/viebig/ai-coding-hackaton-2025
+
+
 ## Resumo Executivo
 - Desafio: 4
 - TL;DR (1 linha): Monorepo Go + React com arquitetura completa e docs, mas sem evidência clara de MVP rodando.

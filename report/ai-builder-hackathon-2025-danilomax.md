@@ -1,5 +1,8 @@
 # ai-builder-hackathon-2025-danilomax — Scorecard para Jurados (0–5)
 
+Repositório: https://github.com/viebig/ai-coding-hackaton-2025
+
+
 ## Resumo Executivo
 - Desafio: 4
 - TL;DR (1 linha): Chat commerce com Next.js usando Vercel AI SDK + OpenAI, integração simples e funcional.

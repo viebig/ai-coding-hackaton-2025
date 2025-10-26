@@ -1,5 +1,8 @@
 # ai-builder-hackaton-2025-bruno-castro-tomaz — Scorecard para Jurados (0–5)
 
+Repositório: https://github.com/viebig/ai-coding-hackaton-2025
+
+
 ## Resumo Executivo
 - Desafio: 1
 - TL;DR (1 linha): API SAC com RAG local (LangChain + Chroma + HF Embeddings) e resposta via Gemini; código comentado, setup com issues de requirements.

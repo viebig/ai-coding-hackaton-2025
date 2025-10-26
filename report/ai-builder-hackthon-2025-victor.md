@@ -1,5 +1,8 @@
 # ai-builder-hackthon-2025-victor — Scorecard para Jurados (0–5)
 
+Repositório: https://github.com/viebig/ai-coding-hackaton-2025
+
+
 ## Resumo Executivo
 - Desafio: 1
 - TL;DR (1 linha): API SAC com FastAPI + Gemini, arquitetura e documentação profissionais, testes e segurança por API key.

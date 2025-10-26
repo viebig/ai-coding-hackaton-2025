@@ -1,5 +1,8 @@
 # ai-builder-hackathon-2025-Thomas — Scorecard para Jurados (0–5)
 
+Repositório: https://github.com/viebig/ai-coding-hackaton-2025
+
+
 ## Resumo Executivo
 - Desafio: 2
 - TL;DR (1 linha): LinkedIn para gamers — setup Next.js com Supabase, UI e docs sólidas; sem backend próprio além de Supabase.

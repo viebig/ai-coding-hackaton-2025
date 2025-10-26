@@ -1,5 +1,8 @@
 # Music-In — Scorecard para Jurados (0–5)
 
+Repositório: https://github.com/viebig/ai-coding-hackaton-2025
+
+
 ## Resumo Executivo
 - Desafio: 2
 - TL;DR (1 linha): Projeto bem documentado para “LinkedIn de música” com Next.js + Supabase; entrega majoritariamente de documentação/estrutura.
