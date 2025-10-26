@@ -1,14 +1,14 @@
  # AI Coding Hackaton 2025
- 
- This repository contains prompts and consolidated reports produced for the AI Coding Hackaton 2025. The `repos/` directory (cloned third‑party code) is intentionally ignored and not included in the pushed results.
- 
- Key contents:
- - Prompts used during evaluation: `prompts/`
- - Consolidated reports and notes: `report/`
- - Helper scripts: `scripts/`
- - Context and inputs: `challenges.txt`, `repos.csv`
- 
- Quick links to reports:
+
+ Repositório com prompts e relatórios consolidados produzidos para o AI Coding Hackaton 2025. A pasta `repos/` (código clonado de terceiros) é intencionalmente ignorada e não é enviada ao repositório remoto.
+
+ Conteúdo principal:
+ - Prompts usados na avaliação: `prompts/`
+ - Relatórios e anotações consolidadas: `report/`
+ - Scripts auxiliares: `scripts/`
+ - Contexto e insumos: `challenges.txt`, `repos.csv`
+
+ Links rápidos para relatórios:
  - [Danilo Max – AI Builder Hackathon 2025](report/ai-builder-hackathon-2025-danilomax.md)
  - [Feliphe Queiroz – AI Builder Hackathon 2025](report/ai-builder-hackathon-2025-feliphequeiroz.md)
  - [Thomas – AI Builder Hackathon 2025](report/ai-builder-hackathon-2025-Thomas.md)
@@ -18,9 +18,9 @@
  - [AI Chat Commerce](report/ai-chat-commerce.md)
  - [Music-In](report/Music-In.md)
  - [PMO Slack – AI Builder Hackathon 2025](report/ai_builder_hackathon_2025_PMOslack.md)
- 
- Primary report to read first:
+
+ Relatório recomendado para começar:
  - [Danilo Max – AI Builder Hackathon 2025](report/ai-builder-hackathon-2025-danilomax.md)
- 
- Notes
- - The `repos/` directory is excluded from version control to avoid pushing external cloned repositories. Only the artifacts above are published.
+
+ Notas
+ - A pasta `repos/` fica fora do controle de versão para evitar publicar repositórios externos clonados. Apenas os artefatos acima são versionados.
