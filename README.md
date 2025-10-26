@@ -1,16 +1,16 @@
  # AI Coding Hackaton 2025
 
- Repositório com prompts e relatórios consolidados produzidos para o AI Coding Hackaton 2025. A pasta `repos/` (código clonado de terceiros) é intencionalmente ignorada e não é enviada ao repositório remoto.
+ Inteligência em ação. Este é o repositório oficial do AI Coding Hackaton 2025 — onde ideias viram protótipos e aprendizados ficam documentados. Aqui você encontra os prompts que guiaram as avaliações, os relatórios consolidados e os insumos que deram base aos experimentos.
 
  Repositório público: https://github.com/viebig/ai-coding-hackaton-2025
 
- Conteúdo principal:
- - Prompts usados na avaliação: `prompts/`
- - Relatórios e anotações consolidadas: `report/`
- - Scripts auxiliares: `scripts/`
- - Contexto e insumos: `challenges.txt`, `repos.csv`
+ O que você encontra aqui
+ - `prompts/` — templates e avaliações utilizados
+ - `report/` — relatórios e anotações consolidadas
+ - `scripts/` — utilitários de suporte
+ - Arquivos de contexto: `challenges.txt`, `repos.csv`
 
- Links rápidos para relatórios:
+ Destaques
  - [Danilo Max – AI Builder Hackathon 2025](report/ai-builder-hackathon-2025-danilomax.md)
  - [Feliphe Queiroz – AI Builder Hackathon 2025](report/ai-builder-hackathon-2025-feliphequeiroz.md)
  - [Thomas – AI Builder Hackathon 2025](report/ai-builder-hackathon-2025-Thomas.md)
@@ -21,8 +21,5 @@
  - [Music-In](report/Music-In.md)
  - [PMO Slack – AI Builder Hackathon 2025](report/ai_builder_hackathon_2025_PMOslack.md)
 
- Relatório recomendado para começar:
- - [Danilo Max – AI Builder Hackathon 2025](report/ai-builder-hackathon-2025-danilomax.md)
-
- Notas
- - A pasta `repos/` fica fora do controle de versão para evitar publicar repositórios externos clonados. Apenas os artefatos acima são versionados.
+ Nota
+ - A pasta `repos/` é ignorada no controle de versão para não publicar código de terceiros clonado. Apenas os artefatos deste repositório são versionados.
